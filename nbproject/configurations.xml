@@ -11,6 +11,7 @@
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="lib" displayName="lib" projectFiles="true">
+        <itemPath>lib/function.h</itemPath>
       </logicalFolder>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
